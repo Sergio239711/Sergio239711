@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergio239711
 - 👀 I’m interested in Data Scientist for bussines
 - 🌱 I’m currently learning Python and PostgreSQL
-- 💞️ I’m looking to collaborate on any projects in Data Science
+- 💞️ I’m looking to collaborate on any Data Science projects
 - 
 
 <!---
